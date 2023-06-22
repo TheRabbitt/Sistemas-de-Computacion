@@ -154,5 +154,5 @@ module_init(ofcd_init);
 module_exit(ofcd_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Tu Nombre");
+MODULE_AUTHOR("Eze,Maca,David");
 MODULE_DESCRIPTION("Controlador de dispositivo de botones");
